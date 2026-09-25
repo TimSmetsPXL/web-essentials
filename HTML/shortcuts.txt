@@ -1,0 +1,4 @@
+CTRL + ALT + L = Code uitlijnen/formatting
+CTRL + K = Commit
+CTRL + SHIFT + K = Push
+CTRL + D = Code dupliceren
